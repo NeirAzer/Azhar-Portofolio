@@ -59,7 +59,7 @@ revealOnScroll();
 
 // ==== Back to Top Button ====
 const backToTop = document.createElement("button");
-backToTop.innerHTML = "⬆";
+backToTop.innerHTML = "^";
 backToTop.id = "backToTop";
 document.body.appendChild(backToTop);
 
